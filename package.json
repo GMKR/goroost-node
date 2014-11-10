@@ -1,5 +1,5 @@
 {
-  "name": "roost",
+  "name": "goroost",
   "version": "1.0.0",
   "description": "NodeJS library for goroost.com",
   "main": "index.js",
