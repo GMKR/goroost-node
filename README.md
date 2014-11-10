@@ -4,7 +4,7 @@ NodeJS API for https://goroost.com/
 
 ###Send Notification
 ```javascript
-var roost = require('roost')('APP_KEY', 'APP_SECRET');
+var roost = require('goroost')('APP_KEY', 'APP_SECRET');
 
 var notification = {
   alert: 'Hello There',
@@ -19,3 +19,4 @@ roost.send(notification, function (err, result) {
     console.log(result);
   }
 });
+```
