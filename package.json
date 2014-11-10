@@ -1,0 +1,26 @@
+{
+  "name": "roost",
+  "version": "1.0.0",
+  "description": "NodeJS library for goroost.com",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GMKR/goroost-node.git"
+  },
+  "keywords": [
+    "goroost",
+    "push",
+    "notifications",
+    "safari"
+  ],
+  "author": "Mohan <mohan@qshark.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GMKR/goroost-node/issues"
+  },
+  "homepage": "https://github.com/GMKR/goroost-node",
+  "dependencies": {
+    "request": "^2.47.0"
+  }
+}
